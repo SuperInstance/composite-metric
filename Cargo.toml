@@ -1,6 +1,9 @@
 [package]
 name = "composite-metric"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Composite Metric"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/composite-metric"
+edition = "2021"
 
 [dependencies]
