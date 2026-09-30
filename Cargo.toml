@@ -1,9 +1,11 @@
 [package]
 name = "composite-metric"
 version = "0.1.0"
-description = "A Rust library for Composite Metric"
+description = "Composite Metric — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/composite-metric"
+repository = "https://github.com/SuperInstance/composite-metric"
 edition = "2021"
+
+keywords = ["composite-metric"]
 
 [dependencies]
